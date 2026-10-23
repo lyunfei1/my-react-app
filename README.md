@@ -1,3 +1,8 @@
+
+# React Tic-Tac-Toe
+
+A tic-tac-toe game built with React and Vite.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
